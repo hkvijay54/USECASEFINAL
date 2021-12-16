@@ -1,0 +1,15 @@
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\bin\Debug\net6.0\UseCaseAssignment.exe
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\bin\Debug\net6.0\UseCaseAssignment.deps.json
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\bin\Debug\net6.0\UseCaseAssignment.runtimeconfig.json
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\bin\Debug\net6.0\UseCaseAssignment.dll
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\bin\Debug\net6.0\ref\UseCaseAssignment.dll
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\bin\Debug\net6.0\UseCaseAssignment.pdb
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\obj\Debug\net6.0\UseCaseAssignment.csproj.AssemblyReference.cache
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\obj\Debug\net6.0\UseCaseAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\obj\Debug\net6.0\UseCaseAssignment.AssemblyInfoInputs.cache
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\obj\Debug\net6.0\UseCaseAssignment.AssemblyInfo.cs
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\obj\Debug\net6.0\UseCaseAssignment.csproj.CoreCompileInputs.cache
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\obj\Debug\net6.0\UseCaseAssignment.dll
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\obj\Debug\net6.0\ref\UseCaseAssignment.dll
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\obj\Debug\net6.0\UseCaseAssignment.pdb
+D:\downloads\abc\c#\usecasefinal\UseCaseAssignment\UseCaseAssignment\obj\Debug\net6.0\UseCaseAssignment.genruntimeconfig.cache
